@@ -1,3 +1,3 @@
 # Tabuada
 
-### Clique aqui para o [Demo](https://endrich-machado.github.io/Tabuada/tabuada.html/)
+### Clique aqui para o [Demo](https://endrich-machado.github.io/tabuada.html/)
